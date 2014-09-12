@@ -1,7 +1,7 @@
 Tarea3AyudantiaCP
 =================
 
-Tarea 3 Ayudantía Computación Paralela
+Tarea 3 Ayudantía Computación Paralela (versión serial)
 
 
 Integrantes
